@@ -5,7 +5,11 @@
 
 [Project Installation](#project-installation)
 
+[Working](#Working)
+
 [Technologies](#technologies)
+
+[Required Libraries](#Required-libraries)
 
 [Contributors](#contributors)
 
@@ -32,7 +36,7 @@ The r shiny file requires either R Studio (with the latest R version) or jupyter
 1. R Studio: R Studio was used for this application, and it can be installed and used to make any changes to the r code file.
 2. R Shiny: R shiny was  used to create a single panel which will incorporate different visualizations.
 
-# Required Libraries
+# Required libraries
 
 1. For visualizations: plotly and ggplot2.
 2. For creating a Shiny Application: shiny.
