@@ -15,7 +15,7 @@
 
 # Structure
 
-This specific Github repository consists of a r code file which contains all the code which was used to deploy this application, any changes to this shiny application can be done by modifing that R code.
+This specific Github repository consists of a r code file named "data_visual.R" which contains all the code which was used to deploy this application, any changes to this shiny application can be done by modifing that R code.
 
 # Overview
 
